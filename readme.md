@@ -1,4 +1,4 @@
-#Inisiasi
+*Inisiasi
 
 - npm init, npm install
 - npm install react react-dom
